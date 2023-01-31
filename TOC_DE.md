@@ -1,6 +1,6 @@
 # Abonnieren eines iCal-Kalenders 
 
-- Google/Android
+- [Google/Android](DE/GoogleAndroid.md)
 - iOS
 - macOS
 - Outlook.com
